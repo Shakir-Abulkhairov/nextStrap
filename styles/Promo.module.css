@@ -1,0 +1,24 @@
+.promo{
+    min-height: 657px;
+    padding: 21px 0 93px 0;
+    background-image: url(../public/img/Group\ 1.png);
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+.text{
+    position: absolute;
+    top: 30%;
+    color: #fff;
+    font-weight: 700;
+    font-size: 44px;
+}
+.text div{
+    font-weight: 700;
+    font-size: 15px;
+}
+.btn{
+    margin-top: 13px;
+    border-radius: 35px;
+    width: 200px;
+}

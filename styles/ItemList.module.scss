@@ -1,0 +1,25 @@
+.wrapper {
+
+    min-height: 657px;
+    padding: 91px 0 93px 0;
+    background-image: url(https://images.unsplash.com/photo-1505506874110-6a7a69069a08?ixlib=rb-1.2.1&w=1080&fit=max&q=80&fm=jpg&crop=entropy&cs=tinysrgb);
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    
+}
+.card {
+    padding: 14px 14px 14px;
+    margin-top: 13px;
+    width: 18rem;
+    text-align: center;
+    background-color: rgba(0,0,0,0.6);
+ }
+.rounded{
+    border-radius:100%;
+ }
+ .btn{
+    margin-top: 13px;
+    border-radius: 35px;
+    width: 200px;
+}
